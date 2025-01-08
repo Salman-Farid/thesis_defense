@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "126789181654",
+    "project_id": "planttreatmonty-dfebf",
+    "storage_bucket": "planttreatmonty-dfebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126789181654:android:55431c0d377799afc42977",
+        "android_client_info": {
+          "package_name": "com.example.plant_treatmonty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126789181654-sqs7jhp5l9jfgr4agqpg85ijnu95nj19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plant_treatmonty",
+            "certificate_hash": "488889ad8421e54504e1d824830eb6be925e491e"
+          }
+        },
+        {
+          "client_id": "126789181654-vkc0ri98ed3gvrennr3qdsaq1lmkasd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrc6MnhUrByCSHywbywZarJTejSvpf8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126789181654-vkc0ri98ed3gvrennr3qdsaq1lmkasd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126789181654-jnjatjnukhph077hje5i2k201bcfeie6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantTreatmonty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
